@@ -1,0 +1,17 @@
+Nr.1)
+a)
+	fd = forward, anzahl pixel
+	rt = right (turn), danach gradzahl
+
+Nr.2)
+
+	Der Compiler braucht jedes mal eine Leertaste zwischen den Zahlen und den 
+	Anweisungen fd und rt
+
+Nr.3)
+	Zeile 1: ja
+	Zeile 2: nein
+	zeile 3: nein
+	zeile 4: nein
+	zeile 5: ja
+	zeile 6: nein
