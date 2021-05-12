@@ -43,6 +43,7 @@ public class Quersumme {
                     if(zeichen == '2' || zeichen == '5' || zeichen == '8'){
                         zustand = 3;
                     }
+                    break;
             case 1: if(zeichen == '0' || zeichen == '3' || zeichen == '6' || zeichen == '9'){
                         zustand = 1;
                     }
@@ -52,6 +53,7 @@ public class Quersumme {
                     if(zeichen == '2' || zeichen == '5' || zeichen == '8'){
                         zustand = 3;
                     }
+                    break;
             case 2: if(zeichen == '0' || zeichen == '3' || zeichen == '6' || zeichen == '9'){
                         zustand = 2;
                     }
@@ -61,6 +63,7 @@ public class Quersumme {
                     if(zeichen == '2' || zeichen == '5' || zeichen == '8'){
                         zustand = 1;
                     }
+                    break;
 
             case 3: if(zeichen == '0' || zeichen == '3' || zeichen == '6' || zeichen == '9'){
                         zustand = 3;
@@ -71,6 +74,7 @@ public class Quersumme {
                     if(zeichen == '2' || zeichen == '5' || zeichen == '8'){
                         zustand = 2;
                     }
+                    break;
         }
         if(zustand == endzstand){
             return true;
