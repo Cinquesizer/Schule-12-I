@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=caeser
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ caeser.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=caeser()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ caeser\r\n
+comment2.params=text\ schluessel
+comment2.target=java.lang.String\ caeserChiffrieren(java.lang.String,\ int)
+comment3.params=code\ schluessel
+comment3.target=java.lang.String\ caeserDechiffrieren(java.lang.String,\ int)
+numComments=4
