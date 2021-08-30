@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=vigenere
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ vigenere.\r\n\ \r\n\ @author\ (Ihr\ Name)\ \r\n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\r\n
+comment1.params=
+comment1.target=vigenere()
+comment1.text=\r\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ vigenere\r\n
+comment2.params=schluessel\ text
+comment2.target=java.lang.String\ chiffrieren(java.lang.String,\ java.lang.String)
+comment3.params=schluessel\ code
+comment3.target=java.lang.String\ dechiffrieren(java.lang.String,\ java.lang.String)
+numComments=4
